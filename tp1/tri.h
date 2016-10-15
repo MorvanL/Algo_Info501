@@ -1,0 +1,1 @@
+void TriInsertion (int*, int );

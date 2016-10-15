@@ -1,0 +1,5 @@
+TP7:
+Pour tester le programme : "./Test nom_du_fichier sommet_de_depart_pcc"
+exemple : "./Test graphe2.txt 4"
+
+Ps : Pour afficher le plus court chemin de tout sommet à tout sommet en utilisant Dijkstra il suffit de retirer "//" devant "pcc_tous_a_tous (g)" à la ligne 29 du fichier "Test.c"
